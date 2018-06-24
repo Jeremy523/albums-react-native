@@ -39,7 +39,7 @@ $ react-native start
 ```
 This should launch **_Watchman_** (if you have it installed), which watches the working directory for file changes, and rebuilds the project as you save your progress in your IDE. 
 
-Now, in a separate terminal / command prompt window, you should be ready to build the project and run it on the emulator.
+Now, in a separate terminal / command prompt window, navigate to the project directory and then you should be ready to build the project and run it on the emulator.
 If you're developing for iOS on a mac, run:
 ```sh
 $ react-native run-ios
@@ -57,5 +57,6 @@ $ npm run android-linux
 If all goes to plan, the app should build and launch on the device!
 
 Another piece of good news (if you have Watchman installed) is that building the app via this "run" command only needs to be done once per development session. After it has been built, Watchman should trigger a rebuild of the app everytime a file in the project is changed.
+
 Thus, any code changes should be apparent when you refresh the virtual device. 
 (For Android, double tap "R". For iOS, press "⌘R")
