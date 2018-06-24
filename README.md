@@ -1,6 +1,6 @@
 # **Project:** albums-react-native
 ## How to get up and running
-#
+
 #### Step 1: Cloning the project
 Find a suitable directory for this project. We can call it _workspace_, for instance.
 Once that's done, open up a bash terminal (or any terminal with git installed), and navigate to that directory:
