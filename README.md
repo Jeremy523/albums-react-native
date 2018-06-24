@@ -40,6 +40,7 @@ $ react-native start
 This should launch **_Watchman_** (if you have it installed), which watches the working directory for file changes, and rebuilds the project as you save your progress in your IDE. 
 
 Now, in a separate terminal / command prompt window, navigate to the project directory and then you should be ready to build the project and run it on the emulator.
+
 If you're developing for iOS on a mac, run:
 ```sh
 $ react-native run-ios
