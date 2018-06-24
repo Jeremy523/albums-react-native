@@ -1,6 +1,4 @@
-**Project:** albums-react-native
-================================
-***
+# **Project:** albums-react-native
 ### How to get up and running
 #
 ##### Step 1: Cloning the project
@@ -16,7 +14,7 @@ $ git clone git@github.com:Jeremy523/albums-react-native.git
 After cloning the repo, you should now have a new directory, called _albums-react-native_ containing the project.
 > **NOTE:** Make sure your machine has an SSH key linked up to github. Find instructions for key generation and linking [here](https://help.github.com/articles/connecting-to-github-with-ssh/).
 > If you have any issues with not being allowed to push any commits, that should be solved once you're added as a contributor to the project.
-#
+
 #
 ##### Step 2: Getting the emulator open
 Assuming you've already installed all the necessary software and tools shown [here](https://facebook.github.io/react-native/docs/getting-started.html), you should be ready to begin.
