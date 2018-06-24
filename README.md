@@ -1,7 +1,7 @@
 # **Project:** albums-react-native
-### How to get up and running
+## How to get up and running
 #
-##### Step 1: Cloning the project
+#### Step 1: Cloning the project
 Find a suitable directory for this project. We can call it _workspace_, for instance.
 Once that's done, open up a bash terminal (or any terminal with git installed), and navigate to that directory:
 ```sh
@@ -16,7 +16,7 @@ After cloning the repo, you should now have a new directory, called _albums-reac
 > If you have any issues with not being allowed to push any commits, that should be solved once you're added as a contributor to the project.
 
 #
-##### Step 2: Getting the emulator open
+#### Step 2: Getting the emulator open
 Assuming you've already installed all the necessary software and tools shown [here](https://facebook.github.io/react-native/docs/getting-started.html), you should be ready to begin.
 Remember not to follow the "_Quick Start_" option.
 > **NOTE:** This step is only necessary if you're running the Android emulator.
@@ -31,7 +31,7 @@ Next, you should be prompted to **_Select a System Image_**. You should select t
 Once the virtual device has been successfully created, it should now appear in the AVD Manager window. All that is now left to do is press the green play button to launch it (_You will only have to open this window and launch the device when you start development and it is closed; it acts as a server running on a specific port on your machine, so it doesn't need to be closed and reopened during a development session_).
 
 #
-##### Step 3: Building and running the project on the virtual device
+#### Step 3: Building and running the project on the virtual device
 If you are developing for Android, make sure to have a virtual device open.
 In a terminal / command prompt window, run the command: 
 ```sh
